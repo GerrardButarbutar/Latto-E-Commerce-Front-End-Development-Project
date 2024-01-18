@@ -1,0 +1,116 @@
+body {
+    background-color: #1E1E1E;
+}
+
+nav {
+    background-color: #E9751F;
+}
+
+.footer {
+    background-color: #353B48;
+    border-top: #E9751F;
+    border-style: solid;
+    border-width: 3px;
+    border-left: none;
+    border-bottom: none;
+    border-right: none;
+}
+
+.footer-text {
+    font-size: 10pt;
+}
+
+.border {
+    background-color: #353B48;
+    border-radius: 5%;
+}
+
+.form {
+    width: 300px;
+}
+
+.form-outline {
+    outline-color: #E9751F;
+    outline-color: 1.5px;
+    outline-style: solid;
+}
+
+.form-label {
+    width: 300px;
+}
+
+form {
+    width: 400px;
+}
+
+.btn-primary {
+    background-color: #E9751F;
+    color: #353B48;
+    border: #353B48;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.btn-primary:hover {
+    background-color: #353B48;
+    color: #E9751F;
+    border: #E9751F;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.text-login {
+    color: white;
+}
+
+.disini {
+    color: #E9751F;
+    text-decoration: none;
+}
+
+.disini :hover {
+    text-decoration: underline;
+}
+
+.card {
+    border: #E9751F;
+    border-style: solid;
+    border-width: 2px;
+}
+
+.text-product {
+    text-decoration: none;
+}
+
+.text-product:hover {
+    text-decoration: underline;
+}
+
+.divider {
+    color: #E9751F;
+    background-color: #E9751F;
+    border: 1px solid #E9751F;
+    border-radius: 50px;
+}
+
+.img-responsive {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+.tentang-laptop {
+    font-size: 8pt;
+}
+
+.bayar-sebelum {
+    font-size: 9pt;
+}
+
+.font-oranye {
+    color: #E9751F;
+}
+
+.form-pembayaran {
+    font-size: 12pt;
+}
